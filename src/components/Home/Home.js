@@ -1,12 +1,14 @@
-import React from 'react';
-import BannerSlider from './BannerSlider';
+import React from "react";
+import BannerSlider from "./BannerSlider";
+import Hotel from "./Hotel";
 
 const Home = () => {
-    return (
-        <div>
-            <BannerSlider/>
-        </div>
-    );
+  return (
+    <div>
+      <BannerSlider />
+      <Hotel />
+    </div>
+  );
 };
 
 export default Home;

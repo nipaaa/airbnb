@@ -1,0 +1,22 @@
+.outline_btn {
+  border: 2px solid white;
+  border-radius: 7px;
+  padding: 10px 40px;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px;
+}
+.outline_btn:hover {
+  background-color: white;
+  color: black;
+  transition: 0.3s ease-in-out;
+}
+.bg_first {
+  background-image: url("./assets/banner-slider1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.452);
+  background-blend-mode: overlay;
+}

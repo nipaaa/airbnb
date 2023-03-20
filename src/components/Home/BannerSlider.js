@@ -40,7 +40,7 @@ const BannerSlider = () => {
           <img className="w-full h-[500px]" src={slider2} alt="" />
         </div>
       </Carousel>
-      ;
+      
     </div>
   );
 };

@@ -1,13 +1,7 @@
 import React from "react";
-import background from "../../assets/banner-slider1.jpg";
+
 
 const Hotel = () => {
-  const backgroundStyle = {
-    backgroundImage: `url(${background})`,
-    backgroundRepeat: "no-repeat",
-    backgroundSize: "cover",
-    backgroundPosition: "center",
-  };
   return (
     <div className="bg_first py-32">
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">

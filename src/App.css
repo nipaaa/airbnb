@@ -20,3 +20,19 @@
   background-color: rgba(0, 0, 0, 0.452);
   background-blend-mode: overlay;
 }
+.bg_second {
+  background-image: url("./assets/bg-second.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.452);
+  background-blend-mode: overlay;
+}
+.bg_third {
+  background-image: url("./assets/bg-third.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.452);
+  background-blend-mode: overlay;
+}
